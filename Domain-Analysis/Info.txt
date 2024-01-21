@@ -1,0 +1,18 @@
+# Veritas Forge - Domain Analysis
+
+## Overview
+
+The News Credibility Checker is a tool designed to automatically evaluate the credibility of news articles based on various factors, including domain name and URL analysis. This component of the project focuses on identifying potentially fake news sources by checking domain extensions, comparing them with reputable news organizations, and utilizing a domain registrar API to fetch additional information.
+
+## Features
+
+- **Domain Name and URL Check:**
+  - Identifies potentially fake news sources based on domain names.
+  - Compares domain extensions with established, reputable news organizations.
+  - Utilizes a domain registrar API to fetch domain information.
+
+
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
